@@ -19,7 +19,7 @@ Run `ECAutomaton.py` and use input/output to navigate console menus.
 
 Customize and generate visualizations in console and PNG.
 
-<details><summary>List of practical functionality</summary>
+<details><summary>List of practical 'commands'.</summary>
 
 - `info` Information about the script itself!
 - `links` External resources on the topic!
@@ -53,43 +53,66 @@ Customize and generate visualizations in console and PNG.
 
 ![screenshot](./ECA_screenshot.png)
 
-## Built-in examples.
+## Examples
 
+### Built-ins
+
+These are also built-into the script.
+
+<details><summary>Show all.</summary>
+
+> Example 1 Sierpinski Fractal (rule 60)
 ![example01](Gallery/examples_upscaled/ex1_Rule-60_(0SLz-76).png)
 
+> Example 2 Pascal's triangle modulo 2 (rule 90)
 ![example02](Gallery/examples_upscaled/ex2_Rule-90_(0SLz-79).png)
 
+> Example 3 Particle collision simulation (rule 184)
 ![example03](Gallery/examples_upscaled/ex3_Rule-184_(0SLz-82).png)
 
+> Example 4 Triangular fractal pattern (rule 150)
 ![example04](Gallery/examples_upscaled/ex4_Rule-150_(0SLz-84).png)
 
+> Example 5 Chaos even from simple conditions (rule 30)
 ![example05](Gallery/examples_upscaled/ex5_Rule-30_(0SLz-86).png)
 
+> Example 6 Rule with growth behaviour of sqrt(x) (rule 106)
 ![example06](Gallery/examples_upscaled/ex6_Rule-106_(0SLz-88).png)
 
+> Example 7 Rule 110 example
 ![example07](Gallery/examples_upscaled/ex7_Rule-110_(0SLz-90).png)
 
+> Example 8 Example of a 2nd-order, reversible seed (rule 214R)
 ![example08](Gallery/examples_upscaled/ex8_Rule-214R_(0SLz-92).png)
 
+> Example 9 Interesting looking rule with individual compartments (rule 73R)
 ![example09](Gallery/examples_upscaled/ex9_Rule-73R_(0SLz-94).png)
 
+> Example 10 Carpet-pattern-rule (rule 150R)
 ![example10](Gallery/examples_upscaled/ex10_Rule-150R_(0SLz-96).png)
 
+> Example 11 Chaotic rule distantly resembling organic tissue (rule 105R)
 ![example11](Gallery/examples_upscaled/ex11_Rule-105R_(0SLz-98).png)
 
+> Example 12 Rule that turns out to be example 4 but rotated 90 degrees (rule 60R)
 ![example12](Gallery/examples_upscaled/ex12_Rule-60R_(0SLz-103).png)
 
+> Example 13 'Inverted'-rule-version of example 9 (rule 146)
 ![example13](Gallery/examples_upscaled/ex13_Rule-146R_(0SLz-105).png)
 
+> Example 14 An interesting 2nd-order rule (rule 210R)
 ![example14](Gallery/examples_upscaled/ex14_Rule-210R_(0SLz-107).png)
 
+> Example 15 Another interesting 2nd-order rule (rule 202R)
 ![example15](Gallery/examples_upscaled/ex15_Rule-202R_(0SLz-109).png)
 
+> Example 16 And another one (rule 218R)
 ![example16](Gallery/examples_upscaled/ex16_Rule-218R_(0SLz-111).png)
 
+> Example 17 Pattern with horizontal axis of symmetry (rule 90R)
 ![example17](Gallery/examples_upscaled/ex17_Rule-90R_(0SLz-114).png)
 
-## More examples
+</details>
 
 ### Big
 
@@ -129,9 +152,9 @@ Customize and generate visualizations in console and PNG.
 
 <div style="position:relative">
 
-<img align="left" src="/Gallery/colored/Rule110_lfl9h-4.png" width=384 alt="xdivision animation">
+<img align="left" src="/Gallery/colored/Rule110_lfl9h-4.png" width=384 alt="rule 110">
 
-<img align="center" src="/Gallery/colored/Rule110_lfl9h-8-ether.png" width=384 alt="xdivision endresult">
+<img align="center" src="/Gallery/colored/Rule110_lfl9h-8-ether.png" width=384 alt="rule 110 colored">
 
 </div>
 
@@ -141,11 +164,10 @@ Customize and generate visualizations in console and PNG.
 
 <div style="position:relative">
 
-<img align="left" src="/Gallery/Gallery/colored/Rule-90R_(-lDo-9)_resized.png" width=384 alt="xdivision animation">
+<img align="left" src="/Gallery/colored/Rule-90R_(-lDo-9)_resized.png" width=384 alt="rule 90">
 
-<img align="center" src="/Gallery/colored/Rule-90R_(-lDo-9)_coloured_resized.png" width=384 alt="xdivision endresult">
+<img align="center" src="/Gallery/colored/Rule-90R_(-lDo-9)_coloured_resized.png" width=384 alt="rule 90 colored">
 
 </div>
 
 </details>
-
