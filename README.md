@@ -44,7 +44,7 @@ Customize and generate visualizations in console and PNG.
 - `rule110 ether` Toggle display of gliders against 'background.'
 - `funfact` 12 fun facts.
 
-<details>
+</details>
 
 
 # Gallery
