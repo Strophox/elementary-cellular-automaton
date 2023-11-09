@@ -1,18 +1,19 @@
-# elementary-cellular-automaton-2018
-An old script to generate, visualize and play with elementary cellular automata
+# elementary-cellular-automaton
+
+*A script to experiment with and visualize elementary cellular automata (command-line or PNG).*
 
 
 # What is this?
-This repository stores my first bigger Python project I had worked on (off GitHub):
-The monolithic [*elementary cellular automaton* script](./ECAutomaton.py) (to be solely interacted with directly in console) boasts over 1000 lines of completely unreadable spaghetti code from when I was learning Python.
+This repository stores my first bigger Python project I had worked on (2018, not on GitHub):
+The monolithic [*elementary cellular automaton* script](./ECAutomaton.py) proudly boasts over 1000 lines of completely unreadable spaghetti code from when I was learning Python.
 
-I apparently even wrote a ['user manual'](./ECA_User_Manual.pdf) for it *(not very useful since didn't know any $\LaTeX$ at the time.)*
+I even started using Overleaf to write a (not very useful nor comprehensive) ['user manual.'](./ECA_User_Manual.pdf)
 
 
 # How could I use it?
-Run `ECAutomaton.py` and use input/output to navigate console menus.
+Run `ECAutomaton.py` and directly use the command-line to navigate scripted menus and draw ASCII (Unicode) art, etc.
 
-*(Note to self: use `cmd` to display all 'commands' even not listed in the 'help' menu.)*
+*(Note to self: use `cmd` to display all commands (unlike `help`))*
 
 
 # What can it do?
